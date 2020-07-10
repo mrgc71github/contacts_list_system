@@ -1,9 +1,9 @@
 This is an attenmting of a litle and lightweight Contact List System
 
 System Requirements:
-PHP > 7
-MySQL
-Apache 2
+- PHP > 7
+- MySQL
+- Apache 2
 
 DB script: db.sql
 
@@ -27,6 +27,8 @@ You can:
 Configuration:
 - DB connection in php/connection.php function conectarBD()
 - Email sending address in php/connection.php function sendEmail()
+
+URL: https://github.com/mrgc71github/contacts_list_system
 
 
 Thanks!
