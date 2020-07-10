@@ -1,4 +1,4 @@
-This is an attenmting of a litle and lightweight Contact List System
+This is an attempting of a litle and lightweight Contact List System
 
 System Requirements:
 - PHP > 7
