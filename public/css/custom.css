@@ -1,0 +1,56 @@
+
+/* custom style for login page */
+.card {    
+    padding: 15px;
+    max-width: 400px;
+    height: auto;
+    margin: 10px auto;
+    text-align: center;
+}
+/* /end custom style for login page */
+
+body {
+    background-color: #c2c2c2;
+}
+/*body {
+    background-color: #18171c;
+}*/
+
+p {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color:white;
+}
+
+ h1, h3 {
+    margin-top: 30px;
+    color:white;
+}
+
+p a  {
+        color:#0871be;
+}
+
+p a:hover  {
+        color:#088ff1;
+}
+
+
+.despliegue{
+    width: 100%;
+    margin-top: -1px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    }
+
+.sombra{
+    box-shadow:2px 2px 2px #222222;
+}
+
+
+
+.loginBox{
+    box-shadow:2px 2px 2px 2px  #ee5200;
+}
